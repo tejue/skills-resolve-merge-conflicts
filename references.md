@@ -1,1 +1,3 @@
-Hello World of git conflicts
+# References
+
+* octocat 1 😈
